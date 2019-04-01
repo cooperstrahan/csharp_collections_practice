@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/bin/Debug/netcoreapp2.2/CollPrac.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/bin/Debug/netcoreapp2.2/CollPrac.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/bin/Debug/netcoreapp2.2/CollPrac.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/bin/Debug/netcoreapp2.2/CollPrac.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/bin/Debug/netcoreapp2.2/CollPrac.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/CollPrac/obj/Debug/netcoreapp2.2/CollPrac.pdb
